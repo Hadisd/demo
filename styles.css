@@ -1,0 +1,7 @@
+.quarto-figure img {
+  border-radius: 3%;
+  object-fit: contain; /* Shows the whole image */
+  background-color: #f8f9fa; /* Light gray circle background */
+  padding: 1px; /* Optional: adds a little breathing room */
+  margin: 0 auto; /* Center the image */
+}
